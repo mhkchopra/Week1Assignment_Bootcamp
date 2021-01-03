@@ -1,6 +1,7 @@
 package com.testtribe.week1;
 
-	public class MethodAndVariable {
+	public class MethodAndVariable { // instance created
+		
 	
 		public static void main(String[] args) { //static method
 			
